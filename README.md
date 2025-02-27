@@ -24,4 +24,6 @@ A responsive web application that mimics the basic functionality of Google Sheet
 
 ## Contributing
 Contributions are welcome. Please fork the repository and submit a pull request.
+  THIS IMAGE SHOWS  THAT  HOW    THE WEB  PAGE LOOK 
 
+![Screenshot 2025-02-27 155557](https://github.com/user-attachments/assets/e59818a8-9d65-450d-a782-d7a2d46f5417)
